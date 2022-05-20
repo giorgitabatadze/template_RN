@@ -1,0 +1,6 @@
+module Pods_DeliveryMobile_DeliveryMobileTests {
+  umbrella header "Pods-DeliveryMobile-DeliveryMobileTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
